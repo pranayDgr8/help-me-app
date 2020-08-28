@@ -1,7 +1,7 @@
 # help_me_app
 
 A new Flutter project.
-This is Akhil
+This is Akhil Rudrawar
 
 ## Getting Started
 
