@@ -12,6 +12,10 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
+<<<<<<< Updated upstream
+=======
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> Stashed changes
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
 </projectDescription>
